@@ -9,4 +9,4 @@ site
 
 #unzip master.zip
 
-#cp -rf jpalidev.github.io-master/* /var/www/html
+#cp -rf mansonkkoo.github.io-master/* /var/www/html
